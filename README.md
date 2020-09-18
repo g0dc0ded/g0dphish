@@ -2,7 +2,7 @@
 Advanced Spear Phishing for Facebook with 2 factor authentication bypass!
  TOOL IS NO LONGER UPDATED ! PLEASE CONTRIBUTE TO KEEP THIS TOOL UP TO DATE! 
 
---HOW TORUN--
+--HOW TO RUN--
 1.  ```git clone https://github.com/g0dc0ded/g0dphish```
 2.  ```cd g0dphish```
 3.  ```pip3.7 install -r requirements.txt```
