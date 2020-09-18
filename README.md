@@ -1,4 +1,4 @@
-# g0d-phish
+# g0dphish
 Advanced Spear Phishing for Facebook with 2 factor authentication bypass!
  TOOL IS NO LONGER UPDATED ! PLEASE CONTRIBUTE TO KEEP THIS TOOL UP TO DATE! 
 
